@@ -1,0 +1,10 @@
+{
+  "name": "express-framework-play",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Example application",
+  "author": "Bradley James Wogsland <bradley@wogsland.org>",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

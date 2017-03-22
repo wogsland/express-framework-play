@@ -1,0 +1,19 @@
+{
+  "name": "express-framework-play",
+  "version": "0.0.1",
+  "description": "playing",
+  "main": "app.js",
+  "scripts": {
+    "test": "nacho"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wogsland/express-framework-play.git"
+  },
+  "author": "Bradley James Wogsland",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/wogsland/express-framework-play/issues"
+  },
+  "homepage": "https://github.com/wogsland/express-framework-play#readme"
+}
